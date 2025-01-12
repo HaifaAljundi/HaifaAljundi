@@ -6,8 +6,6 @@ AI/ML
 
 My efforts are centered on developing intelligent systems that are both innovative and efficient. Enthusiastic about AI and Machine learning leveraging with TensorFlow, Bridging Web Development with Machine Learning and exploring their integration to create intelligent applications
 
-* 🌍  I'm based in Türkiye
-* ✉️  You can contact me at [haifaaljundi@outlook.com](mailto:haifaaljundi@outlook.com)
 
 ### Skills
 
