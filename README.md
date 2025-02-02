@@ -6,6 +6,7 @@ AI/ML
 
 My efforts are centered on developing intelligent systems that are both innovative and efficient. Enthusiastic about AI and Machine learning leveraging with TensorFlow, Bridging Web Development with Machine Learning and exploring their integration to create intelligent applications
 
+✉️ Email: [contact@haifa.engineer](mailto:contact@haifa.engineer)
 
 ### Skills
 
